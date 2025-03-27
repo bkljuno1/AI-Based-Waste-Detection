@@ -1,0 +1,9 @@
+# Core Application Framework
+streamlit
+streamlit-webrtc
+
+# ML & Data Processing
+tensorflow
+numpy
+opencv-python-headless
+Pillow
