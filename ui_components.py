@@ -144,16 +144,6 @@ def render_tabs(model: tf.keras.Model):
                 },
                 media_stream_constraints={"video": True, "audio": False},
                 async_processing=True,
-                video_html_attrs={
-                    "style": {
-                        "border-radius": "10px",
-                        "max-width": "100%",
-                        "border": "2px solid #2E3A59",
-                    },
-                    "playsinline": True,
-                    "autoplay": True,
-                    "muted": True,
-                },
             )
             if not ctx.state.playing:
                 st.markdown(
