@@ -6,7 +6,11 @@ This repository contains the code for an interactive web application that uses a
 into six categories. The application is built with Streamlit and TensorFlow/Keras, featuring both file-based and live
 camera classification capabilities.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-based-waste-detection.streamlit.app/)
+<p align="center">
+  <a href="https://ai-based-waste-detection.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-%E2%96%BA%20Try%20the%20App!-blue?style=for-the-badge&logo=rocket" alt="Try the Live App!">
+  </a>
+</p>
 
 ---
 
