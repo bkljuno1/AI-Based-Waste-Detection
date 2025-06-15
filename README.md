@@ -27,6 +27,16 @@ camera classification capabilities.
 
 ---
 
+## 📄 Project Poster
+
+*A summary of the project's objectives, methods, results, and conclusions in a single view.*
+
+<p align="center">
+  <img src="assets/poster.jpeg" alt="AI Waste Classification Project Poster" width="800"/>
+</p>
+
+---
+
 ## 🎯 Project Overview
 
 In an effort to address environmental challenges, accurate waste sorting is crucial for effective recycling programs.
